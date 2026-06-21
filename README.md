@@ -40,7 +40,7 @@ In the status line it's a one-liner that animates as you work:
 
 ```bash
 # add this repo as a plugin marketplace, then install
-claude plugin marketplace add OWNER/clawde
+claude plugin marketplace add adriancisnerosspeed-hub/clawde
 claude plugin install clawde
 ```
 
