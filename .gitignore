@@ -9,3 +9,6 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# demo-gen scratch images
+assets/_*.png

@@ -6,6 +6,8 @@ and grows up. Let the context fill toward full and it gets stressed, then sleepy
 then sick, and nags you to `/compact`. It's a gentle nudge toward good context
 hygiene, disguised as something to keep alive.
 
+![Clawde — three switchable skins, idle breathing and blinking](assets/demo.gif)
+
 ```
 ┌──────────────────────────────────┐
 │      Clawde  ·  adult  ·  gen 1    │
