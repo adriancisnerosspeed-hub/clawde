@@ -1,5 +1,6 @@
 {
   "name": "clawde",
+  "description": "Clawde — a context Tamagotchi that lives in your Claude Code status line and feeds on a clear context window.",
   "owner": { "name": "Adrian Cisneros" },
   "plugins": [
     {
