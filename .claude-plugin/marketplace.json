@@ -1,0 +1,11 @@
+{
+  "name": "clawde",
+  "owner": { "name": "Adrian Cisneros" },
+  "plugins": [
+    {
+      "name": "clawde",
+      "source": "./",
+      "description": "A context Tamagotchi for your Claude Code status line — it feeds on a clear context window."
+    }
+  ]
+}

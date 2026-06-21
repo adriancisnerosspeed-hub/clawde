@@ -1,0 +1,3 @@
+#!/bin/sh
+# Clawde launcher — runs the bundled engine with whatever args you pass.
+exec python3 "$(dirname "$0")/claude_pet.py" "$@"

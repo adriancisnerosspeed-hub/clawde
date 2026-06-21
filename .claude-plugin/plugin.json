@@ -1,0 +1,11 @@
+{
+  "name": "clawde",
+  "displayName": "Clawde — context Tamagotchi",
+  "description": "A tiny animated pet that lives in your Claude Code status line and feeds on a clear context window. Keep context low and Clawde thrives; let it fill up and it gets sleepy and sick. Switchable skins (buddy / cat / slime), a catch-the-crumbs mini-game, learned sleep hours, daily feeding streaks, and real-time animation in a watch mode.",
+  "version": "0.1.0",
+  "author": { "name": "Adrian Cisneros" },
+  "homepage": "https://github.com/OWNER/clawde",
+  "repository": "https://github.com/OWNER/clawde",
+  "license": "MIT",
+  "keywords": ["statusline", "pet", "tamagotchi", "companion", "animation", "fun", "context-window"]
+}

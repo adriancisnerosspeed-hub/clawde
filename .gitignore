@@ -1,0 +1,11 @@
+# pet save state (per-user runtime data, not source)
+claude-pet/
+pet.json
+*.tmp
+
+# python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
